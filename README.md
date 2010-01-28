@@ -1,5 +1,12 @@
 # jQuery FlashEmbed Plugin
 
+* jQuery flashembed Plugin
+* version: 0.1
+* URL: http://github.com/BBB/jquery-flashembed
+* Description: A jQuery interface for the SWFobject JS library.
+* Requires: jQuery 1.3.2 (Untested on anything lower; but it'll probably work) & SWFObject http://code.google.com/p/swfobject/
+* Author: Ollie Relph http://ollie.relph.me/ || ollie@relph.me
+
 ## License
 
 Copyright (c) 2010 Oliver Relph
